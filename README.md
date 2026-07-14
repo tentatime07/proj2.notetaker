@@ -1,4 +1,5 @@
 # proj2.notetaker v1.1
+Youtube walkthrough: https://www.youtube.com/watch?v=qQ8j7e9tnYU
 
 A simple command-line note taker that automatically saves to a JSON file.
 
